@@ -9,6 +9,8 @@
 - Vim Plugin Manager: **Vundle**
 - Terminal: **URxvt**
 - Shell: **ZSH**
+  - plugin:
+    - zsh-autosuggestions: https://github.com/zsh-users/zsh-autosuggestions
 - Shell Framework: **Oh-My-Zsh**
 - Font Family: **Source Code Pro for Powerline**
 - Sound: **pulseaudio**
