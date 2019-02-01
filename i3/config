@@ -300,7 +300,7 @@ exec --no-startup-id slack
 exec --no-startup-id blueman-manager
 
 # Change keyboard
-exec --no-startup-id setxkbmap -layout us,th -option grp:caps_toggle
+exec --no-startup-id "setxkbmap -layout us,th -option grp:caps_toggle"
 
 # exec --no-startup-id xautolock -time 10 -locker blurlock
 exec_always --no-startup-id ff-theme-util
