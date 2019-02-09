@@ -15,15 +15,14 @@ plugins=(
 )
 
 # PATH Export
-
 #============
 
 # local bin
 export PATH=~/naijab/.local/bin:$PATH
 
 # Android SDK
-export PATH=~/SDK/Android/Sdk/tools:$PATH
-export PATH=~/SDK/Android/Sdk/platform-tools:$PATH
+export PATH=~/SDK/Android/tools:$PATH
+export PATH=~/SDK/Android/platform-tools:$PATH
 
 # NPM
 export PATH=~/.node_modules/bin:$PATH
@@ -46,6 +45,10 @@ export FZF_DEFAULT_COMMAND="find . -path '*/\.*' -type d -prune -o -type f -prin
 # Composer
 export PATH=~/.composer/vendor/bin:$PATH
 export PATH=~/.config/composer/vendor/bin:$PATH
+
+# Ruby
+export PATH="$PATH:$(ruby -e 'print Gem.user_dir')/bin"
+export GEM_HOME=~/.gem
 
 #============
 # Alias
