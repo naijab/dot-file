@@ -15,3 +15,7 @@
 - Font Family: **Source Code Pro for Powerline**
 - Sound: **pulseaudio**
 - Sound Control UI: **Pavucontrol**
+
+## First-Time Usage
+
+1. run `install_pulse` in terminal if use i3wm
