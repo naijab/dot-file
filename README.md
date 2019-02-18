@@ -26,3 +26,5 @@
 
 1. run `install_pulse` in terminal if use i3wm
 
+## Path
+- phpMyAdmin: `/usr/share/webapps/phpMyAdmin`
