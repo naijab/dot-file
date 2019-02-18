@@ -28,3 +28,4 @@
 
 ## Path
 - phpMyAdmin: `/usr/share/webapps/phpMyAdmin`
+- Some App Installed: `/opt`
