@@ -20,6 +20,7 @@
 - Font Family: **Source Code Pro for Powerline**
 - Sound: **pulseaudio**
 - Sound Control UI: **Pavucontrol**
+- PHP Development ENV: https://cpriego.github.io/valet-linux/ 
 
 ## First-Time Usage
 
