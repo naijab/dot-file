@@ -31,4 +31,4 @@
 - Some App Installed: `/opt`
 
 ## How to fix
-- if **DNS_PROBE_FINISHED_BAD_CONFIG** `sudo resolvconf -u; cat /etc/resolv.conf`
+- if **DNS_PROBE_FINISHED_BAD_CONFIG** try `sudo resolvconf -u; cat /etc/resolv.conf` and try to internet again
