@@ -29,3 +29,6 @@
 ## Path
 - phpMyAdmin: `/usr/share/webapps/phpMyAdmin`
 - Some App Installed: `/opt`
+
+## How to fix
+- if **DNS_PROBE_FINISHED_BAD_CONFIG** `sudo resolvconf -u; cat /etc/resolv.conf`
