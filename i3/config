@@ -289,6 +289,7 @@ exec --no-startup-id xfce4-power-manager
 exec --no-startup-id pamac-tray
 exec --no-startup-id clipit
 exec --no-startup-id blueman-applet
+# exec --no-startup-id blueberry
 
 # Default Workspace App
 exec --no-startup-id urxvt
@@ -352,12 +353,12 @@ bar {
 	strip_workspace_numbers no
 
     colors {
-        background #222D31
+        background #282a36
         statusline #F9FAF9
         separator  #454947
 
-#                      border  backgr. text
-        focused_workspace  #F9FAF9 #16a085 #292F34
+#                          border  backgr. text
+        focused_workspace  #F9FAF9 #cc4143 #ffffff
         active_workspace   #595B5B #353836 #FDF6E3
         inactive_workspace #595B5B #222D31 #EEE8D5
         binding_mode       #16a085 #2C2C2C #F9FAF9
@@ -434,4 +435,3 @@ mode "$mode_gaps_outer" {
         bindsym Return mode "default"
         bindsym Escape mode "default"
 }
-
