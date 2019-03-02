@@ -1,5 +1,14 @@
+
+#------------
+# naijab's Fish Config
+#------------
+
 # disable fish greeting message
 set fish_greeting
+
+#------------
+# ENV
+#------------
 
 # android
 set --export PATH ~/SDK/android/tools $PATH
@@ -25,3 +34,14 @@ set --export PATH (ruby -e 'print Gem.user_dir')/bin $PATH
 
 # yarn
 set --export PATH ~/.yarn/bin:~/.config/yarn/global/node_modules/.bin $PATH
+
+#------------
+# Alias
+#------------
+
+# adb restart
+alias adb-restart="adb kill-server && adb start-server"
+
+# docker-compose
+alias dc="docker-compose"
+alias dcx="docker-compose exec"
