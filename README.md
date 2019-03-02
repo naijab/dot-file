@@ -8,15 +8,13 @@
 - Editor: **Vim**
 - Vim Plugin Manager: **Vundle**
 - Terminal: **URxvt**
-- Shell: **ZSH**
-  - plugin:
-    - zsh-autosuggestions: https://github.com/zsh-users/zsh-autosuggestions
+- Shell: **FISH**
 - Terminal Multiplexer: 
   - tmux
     - tmux package manager: https://github.com/tmux-plugins/tpm
     - tmux powerline: https://github.com/erikw/tmux-powerline
     - tmuxp: https://github.com/tmux-python/tmuxp 
-- Shell Framework: **Oh-My-Zsh**
+- Shell Framework: **Oh-My-Fish**
 - Font Family: **Source Code Pro for Powerline**
 - Sound: **pulseaudio**
 - Sound Control UI: **Pavucontrol**
