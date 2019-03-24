@@ -3,11 +3,11 @@
 ## Environment
 
 - OS: **Manjaro (Arch Linux)**
-- Desktop Environment: **i3wm**
+- Desktop Environment: **KDE**
 - Package Manager: **Pacman + Yay!**
-- Editor: **Vim**
+- Editor: **NVim**
 - Vim Plugin Manager: **Vundle**
-- Terminal: **URxvt**
+- Terminal: **Hyper.js**
 - Shell: **FISH**
 - Terminal Multiplexer: 
   - tmux
