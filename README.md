@@ -19,6 +19,7 @@
 - Sound: **pulseaudio**
 - Sound Control UI: **Pavucontrol**
 - PHP Development ENV: https://cpriego.github.io/valet-linux/ 
+- Visual Studio Code sync-setting gist: f7d91792ce85a2ea0a79c10cef493a8a
 
 ## First-Time Usage
 
