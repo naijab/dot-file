@@ -2,32 +2,10 @@
 
 ## Environment
 
-- OS: **Manjaro (Arch Linux)**
-- Desktop Environment: **KDE**
-- Package Manager: **Pacman + Yay!**
-- Editor: **NVim**
-- Vim Plugin Manager: **Vundle**
-- Terminal: **Hyper.js**
-- Shell: **FISH**
-- Terminal Multiplexer: 
-  - tmux
-    - tmux package manager: https://github.com/tmux-plugins/tpm
-    - tmux powerline: https://github.com/erikw/tmux-powerline
-    - tmuxp: https://github.com/tmux-python/tmuxp 
-- Shell Framework: **Oh-My-Fish**
-- Font Family: **Source Code Pro for Powerline**
-- Sound: **pulseaudio**
-- Sound Control UI: **Pavucontrol**
-- PHP Development ENV: https://cpriego.github.io/valet-linux/ 
-- Visual Studio Code sync-setting gist: f7d91792ce85a2ea0a79c10cef493a8a
+- OS: **macOS**
+- Package Manager: [Homebrew](https://brew.sh/)
+- Editor: [Neovim](https://neovim.io/)
+- Terminal: [Alacritty](https://github.com/alacritty/alacritty)
+- Shell: **zsh**
+- Shell Framework: [Oh-My-Zsh](https://ohmyz.sh/)
 
-## First-Time Usage
-
-1. run `install_pulse` in terminal if use i3wm
-
-## Path
-- phpMyAdmin: `/usr/share/webapps/phpMyAdmin`
-- Some App Installed: `/opt`
-
-## How to fix
-- if **DNS_PROBE_FINISHED_BAD_CONFIG** try `sudo resolvconf -u; cat /etc/resolv.conf` and try to internet again
