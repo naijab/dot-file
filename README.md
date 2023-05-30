@@ -2,12 +2,14 @@
 
 ## Main Environment
 
-- OS: **macOS**
+- 🍎 OS: **macOS**
 - macOS Package Manager: [Homebrew](https://brew.sh/)
-- Terminal: [Alacritty](https://github.com/alacritty/alacritty)
-- Editor: [Neovim](https://neovim.io/)
+- Text Editor: LazyVim ([Neovim](https://neovim.io/)) - [My config](https://github.com/naijab/lazyvim-config)
 - Shell: **zsh**
 - Shell Framework: [Oh-My-Zsh](https://ohmyz.sh/)
+- Terminal: [Alacritty](https://github.com/alacritty/alacritty)
+- Terminal multiplexer: [Tmux](https://github.com/tmux/tmux)
+
 
 ## Tools
 ### Terminal
@@ -22,10 +24,16 @@ brew install --cask alacritty`
 npm i -g alacritty-theme-switch`
 ```
 
-### Editor
+- Tmux
+```bash
+brew install tmux
+```
+
+### Text Editor
 - Neovim
 ```bash
-brew install neovim
+brew install neovim 
+git clone https://github.com/naijab/lazyvim-config ~/.config/nvim
 ```
 
 ### Package Manager
