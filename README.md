@@ -3,14 +3,14 @@
 ## Main Environment
 
 - 🍎 OS: **macOS**
-- macOS Package Manager: [Homebrew](https://brew.sh/)
-- Text Editor: LazyVim ([Neovim](https://neovim.io/)) - [My config](https://github.com/naijab/lazyvim-config)
-- Shell: **zsh**
-- Shell Framework: [Oh-My-Zsh](https://ohmyz.sh/)
-- Terminal: [Alacritty](https://github.com/alacritty/alacritty)
-- Terminal multiplexer: [Tmux](https://github.com/tmux/tmux)
+- 🍺 Package Manager: [Homebrew](https://brew.sh/)
+- 📝 Text Editor: LazyVim ([Neovim](https://neovim.io/)) - [My config](https://github.com/naijab/lazyvim-config)
+- 🚥 Shell: **zsh**
+- 🚥 Shell Framework: [Oh-My-Zsh](https://ohmyz.sh/)
+- 🚏 Terminal: [Alacritty](https://github.com/alacritty/alacritty)
+- 🚏 Terminal multiplexer: [Tmux](https://github.com/tmux/tmux)
     - Thanks base tmux config from: [josean-dev/dev-environment-files](https://github.com/josean-dev/dev-environment-files)
-
+- 🔤 Font: [Iosevka Nerd Font Mono](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Iosevka)
 
 ## Tools
 
